@@ -9,6 +9,9 @@
     <Authors>Shojy</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>0.0.1-alpha</Version>
+    <PackageProjectUrl>https://github.com/starlight-software/StarlightSoftware.Utils</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/starlight-software/StarlightSoftware.Utils</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
